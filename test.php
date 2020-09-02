@@ -3,6 +3,8 @@
 	
 	// PHP Skills Test for Software Developer Position at XOMBO - Dean Clancy
 	
+	// Description - This script uses cURL to request JSON data from the JSONPlaceholder API
+	
 	
 	// I am using the JSONPlaceholder website as a test API
 	$url = 'https://jsonplaceholder.typicode.com/users';
